@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <rect width="1600" height="1100" fill="#2457ff"/>
+  <circle cx="1160" cy="550" r="350" fill="#f3f0e6"/>
+  <path d="M0 188h1600M0 550h1600M0 912h1600M220 0v1100M800 0v1100M1380 0v1100" stroke="#101114" stroke-width="2" opacity=".24"/>
+  <text x="78" y="102" font-family="Arial, sans-serif" font-size="28" fill="#f3f0e6" letter-spacing="4">FIELD NOTES / 001</text>
+  <text x="78" y="1010" font-family="Arial, sans-serif" font-size="166" fill="#101114" letter-spacing="-10">CITY AS TEXT</text>
+  <path d="m1070 545 64 64 132-166" fill="none" stroke="#101114" stroke-width="22"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100">
+  <rect width="1600" height="1100" fill="#d9d9d4"/>
+  <path d="M0 550h1600M800 0v1100" stroke="#16171a" stroke-width="2"/>
+  <g fill="none" stroke="#16171a" stroke-width="8">
+    <path d="M80 550c120-420 240 420 360 0s240 420 360 0 240 420 360 0 240 420 360 0"/>
+    <path d="M80 550c160-180 260 180 410 0s260 180 410 0 260 180 410 0 170 100 230 0" opacity=".35"/>
+  </g>
+  <rect x="1010" y="115" width="455" height="190" fill="#16171a"/>
+  <text x="1042" y="194" font-family="Arial, sans-serif" font-size="68" fill="#f3f1e8" letter-spacing="-2">SIGNAL</text>
+  <text x="1042" y="270" font-family="Arial, sans-serif" font-size="68" fill="#f3f1e8" letter-spacing="-2">/ NOISE</text>
+</svg>

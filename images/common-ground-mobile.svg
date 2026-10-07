@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#ff5438"/>
+  <rect x="48" y="48" width="804" height="1104" fill="none" stroke="#191919" stroke-width="3"/>
+  <path d="M48 300h804M48 900h804M450 48v1104" stroke="#191919" stroke-width="3"/>
+  <circle cx="450" cy="600" r="260" fill="#f4efdf"/>
+  <text x="72" y="258" font-family="Arial, sans-serif" font-size="76" fill="#191919" letter-spacing="-4">COMMON</text>
+  <text x="475" y="1010" font-family="Arial, sans-serif" font-size="76" fill="#191919" letter-spacing="-4">GROUND</text>
+  <path d="M350 600h200M450 500v200" stroke="#191919" stroke-width="15"/>
+</svg>

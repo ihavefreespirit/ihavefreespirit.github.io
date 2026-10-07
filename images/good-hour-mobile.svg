@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200">
+  <rect width="900" height="1200" fill="#e4cfa6"/>
+  <rect y="570" width="900" height="630" fill="#1b1c1f"/>
+  <circle cx="450" cy="570" r="300" fill="#ef6b3d"/>
+  <path d="M450 270v600M150 570h600" stroke="#e4cfa6" stroke-width="4"/>
+  <text x="44" y="80" font-family="Arial, sans-serif" font-size="24" fill="#1b1c1f" letter-spacing="4">THE GOOD HOUR</text>
+  <text x="50" y="1090" font-family="Arial, sans-serif" font-size="86" fill="#e4cfa6" letter-spacing="-5">STAY A</text>
+  <text x="50" y="1172" font-family="Arial, sans-serif" font-size="86" fill="#e4cfa6" letter-spacing="-5">WHILE</text>
+</svg>

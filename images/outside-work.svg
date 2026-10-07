@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500">
+  <rect width="1200" height="1500" fill="#cfcfca"/>
+  <rect x="120" y="110" width="960" height="1280" fill="#202124"/>
+  <path d="M120 1050 410 760l185 176 210-400 275 514v340H120Z" fill="#e8e3d6"/>
+  <circle cx="375" cy="430" r="145" fill="#f1a327"/>
+  <path d="M585 245v290M440 390h290" stroke="#e8e3d6" stroke-width="12"/>
+  <text x="175" y="1300" font-family="Arial, sans-serif" font-size="82" fill="#202124" letter-spacing="-4">OFFLINE / FIELD NOTES</text>
+</svg>
